@@ -1,5 +1,3 @@
-# Rajendramani's Learning Notes
-
 Welcome to my public notes it contains my technical notes, daily learnings, and my write-ups.! 🚀  
 
 ## Topics
