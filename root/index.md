@@ -1,5 +1,3 @@
-# Rajendramani's Learning Notes
-
 Welcome to my public notes! 🚀  
 
 ## Topics
