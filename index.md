@@ -1,6 +1,9 @@
-# Rajendramani's Learning Notes
+---
+layout: default
+title: Rajendramani's Learning Notes
+---
 
-Welcome to my public notes! 🚀  
+# Welcome to my public notes 🚀
 
 ## Topics
 - [Java 17 Notes](java-17-notes.md)
