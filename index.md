@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Notes
+title:
 ---
 ---
 # 👋 Hi, I'm Rajendramani
@@ -49,6 +49,7 @@ Deep notes, examples, and best practices on:
 - [Java 17 Notes](java-17-notes.md)
 - [System Design](system-design.md)
 - [Daily Learnings](daily-learning.md)
+- 
 
 ---
 
