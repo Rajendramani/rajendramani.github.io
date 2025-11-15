@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rajendramani's Learning Notes
+title: My Notes
 ---
 ---
 # 👋 Hi, I'm Rajendramani
