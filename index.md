@@ -3,10 +3,6 @@ layout: default
 title: Rajendramani's Learning Notes
 ---
 ---
-title: Rajendramani’s Learning Notes
-layout: default
----
-
 # 👋 Hi, I'm Rajendramani
 
 I’m a Senior Software Engineer with 10+ years of experience in Java, Spring Boot, Microservices, DevOps, and Distributed Systems.
