@@ -34,7 +34,7 @@
 
 - Technical Lead, Wipro
 - Assistant consultant, TCS
-- Associate Consultant, Virtusa | Polaris
+- Associate consultant, Virtusa Polaris
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
