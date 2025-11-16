@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ## 📚 Topics
 
 - [MyResume](resume/Resume.md)
