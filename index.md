@@ -2,12 +2,11 @@
 layout: default
 ---
 ---
-# 👋 Hi, I'm Rajendramani
+# 👋 வணக்கம்,
 
-I’m a Senior Software Engineer with 10+ years of experience in Java, Spring Boot, Microservices, DevOps, and Distributed Systems.
-
-This site is my **public learning garden** — a place where I document everything I learn, practice, build, and experiment with.  
-My long-term goals are to become a **Software Architect**, stay a **continuous learner**, and build a strong **technical knowledge base**.
+இந்த site  (**public learning garden**) முழுவதும் நான்கற்றுக்கொண்ட மற்றும் பரிசோதிக்கும் அனைத்தையும் தொகுத்து வைத்திருக்கிறேன்.  
+Java, Spring Boot, Microservices, React, DevOps, and System Design, Distributed Systems, Domain driven design, Event driven architecture
+எல்லாம் எளிமையாக தமிழ் + English mix ஆக எழுதப்பட்டிருக்கும்.
 
 ---
 
