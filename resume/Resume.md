@@ -18,7 +18,7 @@
      </div>
  </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
+## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
 
  - Male, born in 1989
  - Role: Technical Lead
