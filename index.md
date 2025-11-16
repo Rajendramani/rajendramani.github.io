@@ -1,6 +1,5 @@
 ---
 layout: default
-title:
 ---
 ---
 # 👋 Hi, I'm Rajendramani
