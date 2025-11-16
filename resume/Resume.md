@@ -21,8 +21,8 @@
  ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
 
  - Male, born in 1989
- - Role: Associate Consultant
- - Work experience: 7+ years
+ - Role: Technical Lead
+ - Work experience: 10+ years
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
 
@@ -32,8 +32,9 @@
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
 
-- Working as Associate Consultant at Virtusa | Polaris.
-- Previously worked at Ebullitent Info Systems LLP.
+- Technical Lead, Wipro
+- Assistant consultant, TCS
+- Associate Consultant, Virtusa | Polaris
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
@@ -70,9 +71,9 @@ It is an ADDON which helps the customer to see his Account Summary without his c
 ## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
 - ★★★ Java, J2EE
-- ★★☆ Spring MVC, Spring AOP, Spring Boot, Spring Data, Hibernate, Mybatis
-- ★★★ SQL,PL-SQL
-- ★★★ JMS, Activemq
+- ★★☆ Spring MVC, Spring AOP, Spring Boot, Microservices, Spring Data, Hibernate, Mybatis
+- ★★★ SQL, PL-SQL, No-SQL 
+- ★★★ JMS, Activemq 
 - ★★☆ Tomcat, Weblogic, Websphere, JBoss
 - ★☆☆ AngularJS
 - ★★☆ JavaScript
