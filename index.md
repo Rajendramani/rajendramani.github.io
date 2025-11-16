@@ -11,46 +11,15 @@ My long-term goals are to become a **Software Architect**, stay a **continuous l
 
 ---
 
-## 📘 What You’ll Find Here
+## 📚 Topics
 
-### 🟦 **Java & Backend Engineering**
-Deep notes, examples, and best practices on:
-- Java 17+
-- Spring Boot internals
-- Microservice patterns
-- Messaging (RabbitMQ / Kafka)
-- API Gateway patterns
+- [Java](java/java-overview.md)
+- [Spring Boot](spring-boot/spring-overview.md)
+- [Microservices](microservices/microservices-overview.md)
+- [System Design](system-design/sd-overview.md)
+- [Databases](databases/sql-basics.md)
+- [DevOps](devops/ci-cd-basics.md)
+- [DSA](dsa/dsa-overview.md)
+- [Daily Learnings](daily/)
 
-### 🟧 **System Design**
-- High-level + low-level design notes  
-- Real-world scalable architecture diagrams  
-- Interview-focused explanations
-
-### 🟩 **Daily Learnings**
-- Concepts I learn each day  
-- Debugging stories  
-- Architecture decisions  
-- Mistakes & improvements
-
----
-
-## 🎯 My Purpose of This Site
-
-- Build a **public knowledge base**  
-- Learn with **Active Recall**  
-- Improve clarity through writing  
-- Track my journey to becoming a **Software Architect**  
-- Help others learning the same topics  
-
----
-
-## 📂 Topics
-- [Java 17 Notes](java-17-notes.md)
-- [System Design](system-design.md)
-- [Daily Learnings](daily-learning.md)
-- 
-
----
-
-If you're learning similar topics, I hope these notes help you too.  
 Thanks for visiting! 🚀
