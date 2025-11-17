@@ -24,17 +24,21 @@
  - Role: Technical Lead
  - Work experience: 10+ years
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
-
-- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
-- Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
-- SSLC, P.A.C.M School 75%, 2004
-
 ## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
 
 - Technical Lead, Wipro
 - Assistant consultant, TCS
 - Associate consultant, Virtusa Polaris
+
+## <img src="assets/tools-solid.svg" width="30px"> Skill list
+
+- ★★★ Java, J2EE
+- ★★☆ Spring MVC, Spring AOP, Spring Boot, Microservices, Spring Data, Hibernate, Mybatis
+- ★★★ SQL, PL-SQL, No-SQL 
+- ★★★ JMS, Activemq 
+- ★★☆ Tomcat, Weblogic, Websphere, JBoss
+- ★☆☆ AngularJS
+- ★★☆ JavaScript
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
@@ -68,12 +72,10 @@ This service logging system is used internally for tracking the bugs. For e.g. i
 
 It is an ADDON which helps the customer to see his Account Summary without his credentials but by one time registration. We handled 6 various cases during Registration.
 
-## <img src="assets/tools-solid.svg" width="30px"> Skill list
+## <img src="assets/graduation-cap-solid.svg" width="30px"> Educational experience
 
-- ★★★ Java, J2EE
-- ★★☆ Spring MVC, Spring AOP, Spring Boot, Microservices, Spring Data, Hibernate, Mybatis
-- ★★★ SQL, PL-SQL, No-SQL 
-- ★★★ JMS, Activemq 
-- ★★☆ Tomcat, Weblogic, Websphere, JBoss
-- ★☆☆ AngularJS
-- ★★☆ JavaScript
+- B.E, Dr.Sivanthi Aditanar College of Engineering, Computer Science, 2007~2018
+- Diploma, Arulmigu kalasalingam polytechnic college, ECE, 2004~2007
+- SSLC, P.A.C.M School 75%, 2004
+
+
