@@ -3,7 +3,7 @@ layout: default
 ---
 ## 📚 Topics
 
-- [MyResume](resume/Resume.md)
+- [MyResume](resume/MyResume)
 - [Java](java/java-overview.md)
 - [Spring Boot](spring-boot/spring-overview.md)
 - [Microservices](microservices/microservices-overview.md)
