@@ -32,13 +32,14 @@
 
 ## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
-- ★★★ Java, J2EE
-- ★★☆ Spring MVC, Spring AOP, Spring Boot, Microservices, Spring Data, Hibernate, Mybatis
-- ★★★ SQL, PL-SQL, No-SQL 
-- ★★★ JMS, Activemq 
-- ★★☆ Tomcat, Weblogic, Websphere, JBoss
-- ★☆☆ AngularJS
-- ★★☆ JavaScript
+- ★★★★☆ Java, J2EE, React, **TypeScript**
+- ★★★★☆ Spring Boot, Microservices, Spring Data, Hibernate, Mybatis
+- ★★★☆☆ Redis, SQL, PL-SQL, No-SQL 
+- ★★★★☆ Rest, GraphQL, JMS, Rabbit MQ, RESTful APIs, OpenAPI, Swagger
+- ★★★☆☆ JUnit, Mockito, Performance Testing Tool
+- ★★★★☆ Tomcat, Weblogic, Websphere, JBoss, liberty server
+- ★★★★☆ **Docker, Kubernetes, Jenkins, CI/CD pipelines**
+
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
 
