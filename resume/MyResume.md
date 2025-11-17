@@ -1,5 +1,5 @@
  <center>
-     <h1>Rajendramani R.</h1>
+     <h1>Rajendramani R</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
@@ -38,7 +38,7 @@
 - ★★★★☆ Rest, GraphQL, JMS, Rabbit MQ, RESTful APIs, OpenAPI, Swagger
 - ★★★☆☆ JUnit, Mockito, Performance Testing Tool
 - ★★★★☆ Tomcat, Weblogic, Websphere, JBoss, liberty server
-- ★★★★☆ **Docker, Kubernetes, Jenkins, CI/CD pipelines**
+- ★★★★☆ Docker, Kubernetes, Jenkins, Azure ADO, CI/CD pipelines
 
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> Project experience
