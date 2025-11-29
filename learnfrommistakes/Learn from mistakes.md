@@ -1,5 +1,2 @@
 
-	
-> [!NOTE] [[[Row Lock In Database]] ]
-> Row lock issue என்பது 
-
+[Row Lock In Database](learnfrommistakes/Row Lock In Database.md)
