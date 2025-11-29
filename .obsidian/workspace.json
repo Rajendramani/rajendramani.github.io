@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "96d037334f04a297",
+        "id": "b6ef45ff57e6f00f",
         "type": "tabs",
         "children": [
           {
-            "id": "e587625786812057",
+            "id": "3db45bb8f4040cff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "learnfrommistakes/learn-from-mistakes01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "d26b3f93d9b70fb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "learnfrommistakes/Learn from mistakes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Learn from mistakes"
+              "title": "learn-from-mistakes01"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,13 +183,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "d26b3f93d9b70fb8",
+  "active": "3db45bb8f4040cff",
   "lastOpenFiles": [
-    "_config.yml",
+    "learnfrommistakes/learn-from-mistakes02.md",
+    "learnfrommistakes/learn-from-mistakes01.md",
+    "page1.md",
     "learnfrommistakes/Row Lock In Database.md",
-    "learnfrommistakes/Learn from mistakes.md",
-    "resume/MyResume.md",
     "index.md",
+    "page3.md",
+    "_config.yml",
+    "resume/MyResume.md",
     "learnfrommistakes/Row.md",
     "[Row Lock In Database.md",
     "Untitled 1.base",
@@ -232,7 +220,6 @@
     "resume/TEMP/file2.txt",
     "resume/TEMP/file1.txt",
     "resume/TEMP",
-    "resume/assets",
     "resume/Resume-master (1)/Resume-master/Resume.md",
     "resume/Resume-master (1)/Resume-master/README.md",
     "java/java-8.md",
