@@ -29,7 +29,7 @@
 - Technical Lead, Wipro
 - Assistant consultant, TCS
 - Associate consultant, Virtusa Polaris
-
+ 
 ## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
 - ★★★★☆ Java, J2EE, React, **TypeScript**

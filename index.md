@@ -11,6 +11,6 @@ layout: default
 - [Databases](databases/sql-basics.md)
 - [DevOps](devops/ci-cd-basics.md)
 - [DSA](dsa/dsa-overview.md)
-- [Daily Learnings](daily/)
+- [Learn from mistakes](Learn%20from%20mistakes.md)
 
 Thanks for visiting! 🚀
