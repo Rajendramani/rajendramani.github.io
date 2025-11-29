@@ -5,12 +5,8 @@ pagination:
   enabled: true
 ---
  ---
-
-{% for issue in site.learnfrommistakes %}
-### 🔹 [Row Lock In Database](Row%20Lock%20In%20Database)
-**Date:** {{ issue.date | date: "%d-%m-%Y" }}  
-{{ issue.description }}
-{% endfor %}
+ ### 🔹 [Row Lock In Database](Row%20Lock%20In%20Database)
+{{ iஇந்த issue வானது  }}
 
 ---
 
