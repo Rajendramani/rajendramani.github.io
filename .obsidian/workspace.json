@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "learnfrommistakes/learn-from-mistakes01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "learn-from-mistakes01"
             }
           }
         ]
@@ -185,9 +185,9 @@
   },
   "active": "3db45bb8f4040cff",
   "lastOpenFiles": [
+    "index.md",
     "learnfrommistakes/learn-from-mistakes01.md",
     "learnfrommistakes/learn-from-mistakes02.md",
-    "index.md",
     "_config.yml",
     "tmp/_config.yml",
     "page1.md",

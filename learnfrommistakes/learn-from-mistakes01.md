@@ -11,7 +11,7 @@ pagination:
 
 ---
 ---
-[← Previous](../index) |  [Next →](learn-from-mistakes02)
+[← Previous](../../index) |  [Next →](learn-from-mistakes02)
 
 ---
 
