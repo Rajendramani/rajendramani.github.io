@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learnfrommistakes/learn-from-mistakes02.md",
+                "file": "learnfrommistakes/learn-from-mistakes01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "learn-from-mistakes02"
+              "title": "learn-from-mistakes01"
             }
           }
         ]
@@ -183,12 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a80ab37eed6c63b9",
+  "active": "3db45bb8f4040cff",
   "lastOpenFiles": [
-    "_config.yml",
     "index.md",
     "learnfrommistakes/learn-from-mistakes02.md",
     "learnfrommistakes/learn-from-mistakes01.md",
+    "_config.yml",
     "tmp/_config.yml",
     "page1.md",
     "learnfrommistakes/Row Lock In Database.md",
