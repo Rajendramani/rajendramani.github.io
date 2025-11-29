@@ -10,5 +10,5 @@ pagination:
 இந்த issue வானது
 
 ---
-						[← Previous](index.md) |  [Next →](learn-from-mistakes02)
+						[← Previous](index) |  [Next →](learn-from-mistakes02)
   
