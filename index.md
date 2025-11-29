@@ -12,6 +12,6 @@ theme: minima
 - [Databases](databases/sql-basics.md)
 - [DevOps](devops/ci-cd-basics.md)
 - [DSA](dsa/dsa-overview.md)
-- [Learn from mistakes](learn-from-mistakes01)
+- [Learn from mistakes](learnfrommistakes/learn-from-mistakes01)
 
 Thanks for visiting! 🚀
