@@ -2,9 +2,9 @@
 layout: default
 theme: minima
 ---
-## 📚 Topics
+## 📚 Dev Notes
 
-- [MyResume](resume/MyResume)
+- [My Resume](resume/MyResume)
 - [Java](java/java-overview.md)
 - [Spring Boot](spring-boot/spring-overview.md)
 - [Microservices](microservices/microservices-overview.md)
@@ -12,6 +12,6 @@ theme: minima
 - [Databases](databases/sql-basics.md)
 - [DevOps](devops/ci-cd-basics.md)
 - [DSA](dsa/dsa-overview.md)
-- [Learn from mistakes](learnfrommistakes/learn-from-mistakes01)
+- [Root Cause Library](learnfrommistakes/learn-from-mistakes01)
 
 Thanks for visiting! 🚀
