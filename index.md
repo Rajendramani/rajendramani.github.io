@@ -13,5 +13,6 @@ theme: minima
 - [DevOps](devops/ci-cd-basics.md)
 - [DSA](dsa/dsa-overview.md)
 - [Root Cause Library](learnfrommistakes/learn-from-mistakes01)
+- [Thoughts](thoughts/thoughts01)
 
 Thanks for visiting! 🚀
