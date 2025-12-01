@@ -15,4 +15,4 @@ theme: minima
 - [Root Cause Library](learnfrommistakes/learn-from-mistakes01)
 - [Thoughts](thoughts/thoughts01)
 
-Thanks for visiting! 🚀
+"தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்" 🚀
