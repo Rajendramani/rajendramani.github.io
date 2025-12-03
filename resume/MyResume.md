@@ -1,4 +1,4 @@
- <center>
+ <left>
      <h1>Rajendramani R</h1>
      <div>
          <span>
@@ -16,7 +16,7 @@
              <a href="https://github.com/Rajendramani">Rajendramani</a>
          </span>
      </div>
- </center>
+ </left>
 
 ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
 
