@@ -1,5 +1,9 @@
  <left>
-     <h1>Rajendramani R</h1>
+    <div>
+    <span>
+		    <img src="assets/ddd.png" width="40px">
+    </span>
+    </div>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">

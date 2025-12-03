@@ -186,6 +186,8 @@
   "active": "3db45bb8f4040cff",
   "lastOpenFiles": [
     "index.md",
+    "resume/MyResume.md",
+    "resume/assets/ddd.png",
     "thoughts/thoughts01.md",
     "thoughts",
     "learnfrommistakes/learn-from-mistakes02.md",
@@ -195,7 +197,6 @@
     "page1.md",
     "learnfrommistakes/Row Lock In Database.md",
     "page3.md",
-    "resume/MyResume.md",
     "learnfrommistakes/Row.md",
     "[Row Lock In Database.md",
     "Untitled 1.base",
@@ -216,7 +217,6 @@
     "resume/assets/1.png",
     "resume/assets/2.png",
     "resume/assets/4.png",
-    "resume/assets/5.png",
     "resume/Resume.md",
     "resume/Resume.html",
     "resume/resume.css",
@@ -229,7 +229,6 @@
     "java/index.md",
     "root/index.md",
     "index.md.md",
-    "root/index.html.md",
-    "root/index.md.md"
+    "root/index.html.md"
   ]
 }
