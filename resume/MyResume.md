@@ -1,32 +1,37 @@
  <left>
     <div>
     <span>
+		    <img src="assets/java8.gif" width="50px">
+    </span>
+    <span>
 		    <img src="assets/ddd.png" width="40px">
     </span>
+    <span>
+		    <img src="assets/spring-boot-microservices.png" width="40px">
+    </span>
+    <span>
+		    <img src="assets/microservices-with-containers.png" width="40px">
+    </span>
     </div>
-     <div>
+ </left>
+## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
+
+ <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             +91 9944844991
+             &nbsp; +91 9944844991
          </span>
-         ·
-         <span>
+         <br>
+        <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             rajendramani.r@gmail.com
+             &nbsp; rajendramani.r@gmail.com
          </span>
-         ·
+         <br>
          <span>
              <img src="assets/github-brands.svg" width="18px">
              <a href="https://github.com/Rajendramani">Rajendramani</a>
          </span>
-     </div>
- </left>
-
-## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
-
- - Male, born in 1989
- - Role: Technical Lead
- - Work experience: 10+ years
+</div>
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> Work experience
 
