@@ -29,7 +29,7 @@
          <br>
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/Rajendramani">Rajendramani</a>
+             <a href="https://github.com/Rajendramani">&nbsp; Rajendramani</a>
          </span>
 </div>
 
