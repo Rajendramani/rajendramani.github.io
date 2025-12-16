@@ -29,7 +29,7 @@ Hibernate தான் Entity Manager உதவியுடன் data வை pe
 
 Hibernate தான் மொத்த Entity life cycle ஐ manage செய்கிறது. 
 
-Spring Data JPA என்பது, JPA Specification மட்டுமே. அதாவது JPA வின் மேல் எழுதப்பட்டிருக்கும் ஒரு Abstraction layer தான். (சுருக்கமா சொல்லனும்னா, அண்ணனுக்கு ஒத்தாசைக்கு என்பது போல..) 
+Spring Data JPA என்பது, JPA Specification மட்டுமே. அதாவது JPA வின் மேல் எழுதப்பட்டிருக்கும் ஒரு Abstraction layer தான். 
 
 உதாரணமாக, கீழே உள்ள code snippet ஐ Spring Data JPA தான் generate பண்ணும். ஆனால் Hibernate தான் Execute செய்யும். 
 
@@ -45,26 +45,19 @@ Your code → Spring Data JPA → JPA Specification → Hibernate → Database.�
 
 **Note:** 
 
-Spring : Framework 
+| Spring :    | Framework          |
+| ----------- | ------------------ |
+| JPA :       | Specification      |
+| Hibernate : | JPA implementation |
+எனவே தான், **==spring-boot-starter-data-jpa==** dependency யானது, Hibernate ஐ automatic க்காக எடுக்கிறது. 
 
-JAP : Specification 
+One more example:
 
-Hibernate: JPA implementation 
-
-எனவே தான், spring-boot-starter-data-jpa dependency யானது, Hibernate ஐ automatic க்காக எடுக்கிறது. 
-
-One more example: 
-
-(Rules) Menu → JPA 
-
-(Order Takes) Waiter → Spring Data JPA 
-
-(Cook food) Chef → Hibernate 
-
-Kitchen → Database
-
-  
-
+| (Rules) Menu :            | JPA             |
+| ------------------------- | --------------- |
+| (Order Taken by) Waiter : | Spring Data JPA |
+| (Cook food) Chef :        | Hibernate       |
+| Kitchen :                 | Database        |
 **முடிவாக,** 
 
 **Waiter** தான, menu-வ வச்சு order எடுப்பான். Cook பண்ணமாட்டான். 
