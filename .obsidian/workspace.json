@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume/MyResume.md",
+                "file": "databases/database01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MyResume"
+              "title": "database01"
             }
           }
         ]
@@ -185,30 +185,33 @@
   },
   "active": "3db45bb8f4040cff",
   "lastOpenFiles": [
+    "databases/hibernateandspringjpa.md",
+    "databases/database01.md",
+    "learnfrommistakes/Row Lock In Database.md",
+    "learnfrommistakes/learn-from-mistakes01.md",
+    "devops/ci-cd-basics.md",
+    "tmp/test.md",
+    "index.md",
+    "thoughts/thoughts01.md",
+    "resume/MyResume.md",
     "resume/assets/microservices-with-containers.png",
     "resume/assets/Unconfirmed 401889.crdownload",
     "resume/assets/spring-boot-microservices.png",
     "resume/spring-boot-microservices.png",
     "resume/Unconfirmed 958103.crdownload",
     "resume/assets/java8.gif",
-    "index.md",
-    "resume/MyResume.md",
     "resume/assets/ddd.png",
-    "thoughts/thoughts01.md",
     "thoughts",
     "learnfrommistakes/learn-from-mistakes02.md",
-    "learnfrommistakes/learn-from-mistakes01.md",
     "_config.yml",
     "tmp/_config.yml",
     "page1.md",
-    "learnfrommistakes/Row Lock In Database.md",
     "page3.md",
     "learnfrommistakes/Row.md",
     "[Row Lock In Database.md",
     "Untitled 1.base",
     "Untitled.base",
     "java/java-overview.md",
-    "devops/ci-cd-basics.md",
     "learnfrommistakes 1.md",
     "learnfrommistakes.md",
     "learnfrommistakes",
@@ -219,17 +222,14 @@
     "resume/assets/O_Java-SE-8-OCA-clr.gif",
     "resume/assets/preview.png",
     "resume/assets/rss-solid.svg",
-    "resume/assets/tools-solid.svg",
     "resume/Resume.md",
     "resume/Resume.html",
     "resume/Resume-master (1)/Resume-master/Resume.md",
     "resume/Resume-master (1)/Resume-master/README.md",
     "java/java-8.md",
-    "tmp/test.md",
     "tmp/java-8.md",
     "java/index.md",
     "root/index.md",
-    "index.md.md",
-    "root/index.html.md"
+    "index.md.md"
   ]
 }
