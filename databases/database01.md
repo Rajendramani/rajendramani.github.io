@@ -9,8 +9,7 @@ pagination:
 
 Spring ecosystem க்கு சொந்தமாக எந்த ORM mechanism மும்  இல்லை..    
 
----
----
+
 [← Previous](../../index) |  [Next →](learn-from-mistakes02)
 
 ---
