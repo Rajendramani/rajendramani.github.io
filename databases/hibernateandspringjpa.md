@@ -10,21 +10,21 @@ pagination:
 
   
 
-ORM framework என்பது Java object (Entity class)களை database table-களுடன் connect பண்ணி,
+**ORM framework** என்பது Java object (Entity class)களை database table-களுடன் connect பண்ணி,
 
 நாம எந்த ஒரு SQL லும் எழுதாமல் database லில் store / retrieve / update / delete செய்ய உதவும் framework.
 
 Spring ecosystem லில் Entity class இல்லை. ஏன் என்றால் Spring ORM framework இல்லை. 
 
-Hibernate தான் OG ORM framework. 
+**Hibernate** தான் OG ORM framework. 
 
-Hibernate தான் SQL ஐ generate செய்யும். 
+**Hibernate** தான் SQL ஐ generate செய்யும். 
 
-Hibernate தான் Execute செய்யும் 
+**Hibernate** தான் Execute செய்யும் 
 
-Hibernate தான் Entity Manager உதவியுடன் data வை persist செய்யும். 
+**Hibernate** தான் Entity Manager உதவியுடன் data வை persist செய்யும். 
 
-Hibernate தான் மொத்த Entity life cycle ஐ manage செய்கிறது. 
+**Hibernate** தான் மொத்த Entity life cycle ஐ manage செய்கிறது. 
 
 Spring Data JPA என்பது, JPA Specification மட்டுமே. அதாவது JPA வின் மேல் எழுதப்பட்டிருக்கும் ஒரு Abstraction layer தான். (சுருக்கமா சொல்லனும்னா, அண்ணனுக்கு ஒத்தாசைக்கு என்பது போல..) 
 
@@ -48,7 +48,7 @@ JAP : Specification 
 
 Hibernate: JPA implementation 
 
-எனவே தான், spring-boot-starter-data-jpa dependency யானது, Hibernate ஐ automatic க்காக எடுக்கிறது. 
+எனவே தான், **spring-boot-starter-data-jpa** dependency யானது, Hibernate ஐ automatic க்காக எடுக்கிறது. 
 
 One more example: 
 
@@ -62,10 +62,10 @@ Kitchen → Database
 
   
 
-முடிவாக, 
+**முடிவாக**, 
 
 Waiter தான, menu-வ வச்சு order எடுப்பான். Cook பண்ணமாட்டான். 
 
-Chef தான் cook பண்ணுவான், Kitchen ல.**
+Chef தான் cook பண்ணுவான், Kitchen ல.
 
   
