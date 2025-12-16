@@ -185,8 +185,9 @@
   },
   "active": "3db45bb8f4040cff",
   "lastOpenFiles": [
-    "databases/database01.md",
+    "Untitled.md",
     "databases/hibernateandspringjpa.md",
+    "databases/database01.md",
     "learnfrommistakes/Row Lock In Database.md",
     "learnfrommistakes/learn-from-mistakes01.md",
     "devops/ci-cd-basics.md",
@@ -229,7 +230,6 @@
     "java/java-8.md",
     "tmp/java-8.md",
     "java/index.md",
-    "root/index.md",
-    "index.md.md"
+    "root/index.md"
   ]
 }
