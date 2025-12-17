@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3db45bb8f4040cff",
+  "active": "7e159f696abff42e",
   "lastOpenFiles": [
     "Pasted image 20251217083229.png",
     "Untitled.md",
