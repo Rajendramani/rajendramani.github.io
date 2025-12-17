@@ -49,7 +49,8 @@ Your code → Spring Data JPA → JPA Specification → Hibernate → Database.�
 | ----------- | ------------------ |
 | JPA :       | Specification      |
 | Hibernate : | JPA implementation |
-எனவே தான், **==spring-boot-starter-data-jpa==** dependency யானது, Hibernate ஐ automatic க்காக எடுக்கிறது. 
+
+எனவே தான், **spring-boot-starter-data-jpa** dependency யானது, Hibernate ஐ automatic க்காக எடுக்கிறது. 
 
 One more example:
 
@@ -58,6 +59,7 @@ One more example:
 | (Order Taken by) Waiter : | Spring Data JPA |
 | (Cook food) Chef :        | Hibernate       |
 | Kitchen :                 | Database        |
+
 **முடிவாக,** 
 
 **Waiter** தான, menu-வ வச்சு order எடுப்பான். Cook பண்ணமாட்டான். 
