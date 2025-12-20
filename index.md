@@ -5,7 +5,7 @@ theme: minima
 ## 📚 Dev Notes
 
 - [My Resume](resume/MyResume)
-- [Java](java/java01)
+- [Java](java01.md)
 - [Spring Boot](spring-boot/spring-overview.md)
 - [Microservices](microservices/microservices-overview.md)
 - [System Design](system-design/sd-overview)

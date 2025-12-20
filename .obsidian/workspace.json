@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "java/java01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "java01"
             }
           }
         ]
@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f2a43be65d739be",
+  "active": "a80ab37eed6c63b9",
   "lastOpenFiles": [
-    "java/java01.md",
+    "devops/ci-cd-basics.md",
     "index.md",
+    "java/java01.md",
     "java/streams.md",
     "java/java-overview.md",
     "tmp/Pasted image 20251217083229.png",
@@ -200,7 +201,6 @@
     "Untitled.md",
     "databases/hibernateandspringjpa.md",
     "databases/database01.md",
-    "devops/ci-cd-basics.md",
     "resume/MyResume.md",
     "resume/assets/microservices-with-containers.png",
     "resume/assets/Unconfirmed 401889.crdownload",
