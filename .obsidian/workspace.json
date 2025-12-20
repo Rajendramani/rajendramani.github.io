@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "java/java01.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "java01"
+              "title": "index"
             }
           }
         ]
@@ -183,11 +183,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "a80ab37eed6c63b9",
+  "active": "5f2a43be65d739be",
   "lastOpenFiles": [
+    "java/java02.md",
+    "java/java01.md",
     "devops/ci-cd-basics.md",
     "index.md",
-    "java/java01.md",
     "java/streams.md",
     "java/java-overview.md",
     "tmp/Pasted image 20251217083229.png",
