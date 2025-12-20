@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "java/java-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "java-01"
             }
           }
         ]
@@ -185,10 +185,10 @@
   },
   "active": "5f2a43be65d739be",
   "lastOpenFiles": [
-    "java/Java-01.md",
     "java/streams.md",
-    "java/java-overview.md",
+    "java/java-01.md",
     "index.md",
+    "java/java-overview.md",
     "tmp/Pasted image 20251217083229.png",
     "learnfrommistakes/Row Lock In Database.md",
     "learnfrommistakes/learn-from-mistakes01.md",
