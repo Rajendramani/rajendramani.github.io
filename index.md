@@ -6,7 +6,7 @@ theme: minima
 
 - [My Resume](resume/MyResume)
 - [Java](java/java02)
-- [Spring Boot](spring-boot/spring-overview.md)
+- [Spring Boot](spring01.md)
 - [Microservices](microservices/microservices-overview.md)
 - [System Design](system-design/sd-overview)
 - [Databases](databases/database01)
