@@ -31,7 +31,7 @@
               "state": {
                 "file": "spring-boot/constructor_autowire.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "constructor_autowire"

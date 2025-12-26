@@ -81,7 +81,7 @@ Run time இல் தான் தெரியவரும். 
 
   
 
-சரி, Constructor Injection எப்படி செய்யதல்படுகிறது என்று பார்ப்போம், 
+சரி, Constructor Injection எப்படி செயல்படுகிறது என்று பார்ப்போம், 
 
 ```
 @Service
