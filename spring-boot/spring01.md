@@ -13,8 +13,7 @@ pagination:
 
 `What are the things behind this?` 
 
----
----
+
 [← Previous](../../index) |  [Next →](spring01)
 
 ---
