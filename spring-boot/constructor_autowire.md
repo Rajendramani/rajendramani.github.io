@@ -1,4 +1,4 @@
-**பொதுவாக spring-இல் மூன்று வகையான Injection-கள் பயன்படுத்தப்படுகின்றன 
+பொதுவாக spring-இல் மூன்று வகையான Injection-கள் பயன்படுத்தப்படுகின்றன 
 
 1. Field Injection (@Autowire)
     
@@ -11,7 +11,8 @@
 
 Spring officially ஏன் Constructor injection ஐ preferred செய்கிறது? 
 
-இது article எது சரியான code என்பதைப்பற்றி இல்லை. It's about working code vs correct design code. 
+இது  எது சரியான code என்பதைப்பற்றி இல்லை. 
+It's about working code vs correct design code. 
 
 பொதுவாக Controller class இல் நாம் @Autowire ஐ பயன்படுத்துகிறோம் என்றால், 
 
@@ -62,6 +63,9 @@ noteRepository.getById(...);
 > [!NOTE]
 > 
 > இதில் ஒரு சர்ச்சை இருக்கிறது. இந்த noteRepository injection ஆனது NoteService object உருவானத்துக்கு பிறகு நடக்கிறது. ஆனால் design படி dependency object உருவான பிறகுதான் target object உருவாக வேண்டும். 
+
+சுருக்கமாக சொல்லப்போனால், அடுப்பை பற்ற வைத்த பிறகு கடுகு, உளுந்தப் பருப்பு ஐ தேட கூடாது. தேவையான ingredients ஐ எடுத்த பிறகு தான் அடுப்பை பற்ற வைக்க வேண்டும். 
+ 
 
 இதில் dependency என்பது  noteRepository ஐ குறிக்கிறது. 
 
@@ -126,4 +130,4 @@ this.noteRepository = null;
 this.noteRepository = anotherRepository; 
 ```
 
-என்று கொடுக்க வாய்ப்பு இருக்கிறது. எனவே noteRepository object ஐ மாற்ற முடியாதபடி வைக்கவேண்டும் அதாவது immutable ஆகா. அதற்குத்தான் இந்த final keyword.**
+என்று கொடுக்க வாய்ப்பு இருக்கிறது. எனவே noteRepository object ஐ மாற்ற முடியாதபடி வைக்கவேண்டும் அதாவது immutable ஆகா. அதற்குத்தான் இந்த final keyword.
