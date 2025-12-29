@@ -12,6 +12,9 @@
     <span>
 		    <img src="assets/microservices-with-containers.png" width="40px">
     </span>
+    <span>
+		    <img src="assets/the-ultimate-bpmn-course.png" width="40px">
+    </span>
     </div>
  </left>
 ## <img src="assets/info-circle-solid.svg" width="30px"> Personal information 
@@ -41,7 +44,7 @@
  
 ## <img src="assets/tools-solid.svg" width="30px"> Skill list
 
-- ★★★★☆ Java, J2EE, React, **TypeScript**
+- ★★★★☆ Java, J2EE, React, TypeScript
 - ★★★★☆ Spring Boot, Microservices, Spring Data, Hibernate, Mybatis
 - ★★★☆☆ Redis, SQL, PL-SQL, No-SQL 
 - ★★★★☆ Rest, GraphQL, JMS, Rabbit MQ, RESTful APIs, OpenAPI, Swagger

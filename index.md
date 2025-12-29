@@ -4,7 +4,6 @@ theme: minima
 ---
 ## 📚 Dev Notes
 
-- [My Resume](resume/MyResume)
 - [Java](java/java02)
 - [Spring Boot](spring-boot/spring01)
 - [Microservices](microservices/microservices-overview.md)
@@ -14,5 +13,3 @@ theme: minima
 - [DSA](dsa/dsa-overview.md)
 - [Root Cause Library](learnfrommistakes/learn-from-mistakes01)
 - [Thoughts](thoughts/thoughts01)
-
-"தெய்வத்தான் ஆகா தெனினும் முயற்சிதன் மெய்வருத்தக் கூலி தரும்" 🚀

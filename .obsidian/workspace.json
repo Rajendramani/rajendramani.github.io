@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring-boot/constructor_autowire.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "constructor_autowire"
+              "title": "index"
             }
           },
           {
@@ -230,10 +230,12 @@
   },
   "active": "30a14b476dedc097",
   "lastOpenFiles": [
+    "resume/MyResume.md",
+    "index.md",
+    "resume/assets/the-ultimate-bpmn-course.png",
+    "spring-boot/constructor_autowire.md",
     "spring-boot/spring01.md",
     "learnfrommistakes/learn-from-mistakes01.md",
-    "index.md",
-    "spring-boot/constructor_autowire.md",
     "java/java02.md",
     "java/java01.md",
     "devops/ci-cd-basics.md",
@@ -249,7 +251,6 @@
     "Untitled.md",
     "databases/hibernateandspringjpa.md",
     "databases/database01.md",
-    "resume/MyResume.md",
     "resume/assets/microservices-with-containers.png",
     "resume/assets/Unconfirmed 401889.crdownload",
     "resume/assets/spring-boot-microservices.png",
@@ -273,9 +274,7 @@
     "resume/README.md",
     "resume/assets/info-solid.svg",
     "resume/assets/phone-solid.svg",
-    "resume/assets/O_Java-SE-8-OCA-clr.gif",
     "resume/Resume.md",
-    "resume/Resume.html",
-    "resume/Resume-master (1)/Resume-master/Resume.md"
+    "resume/Resume.html"
   ]
 }
