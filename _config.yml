@@ -1,0 +1,52 @@
+title: Rajendramani's Notes
+description: Technical notes, thoughts & DIY projects
+author: Rajendramani
+url: "https://rajendtamani.github.io"
+baseurl: ""
+
+# Build
+markdown: kramdown
+highlighter: rouge
+permalink: /:categories/:title/
+
+# Collections - so we can organize content by type
+collections:
+  notes:
+    output: true
+    permalink: /notes/:title/
+  diy:
+    output: true
+    permalink: /diy/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts"
+    values:
+      layout: post
+      category: thoughts
+  - scope:
+      path: "_notes"
+      type: "notes"
+    values:
+      layout: post
+      category: notes
+  - scope:
+      path: "_diy"
+      type: "diy"
+    values:
+      layout: post
+      category: diy
+
+# Plugins (GitHub Pages supported)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
