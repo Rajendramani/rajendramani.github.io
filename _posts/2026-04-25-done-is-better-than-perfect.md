@@ -1,8 +1,10 @@
 ---
-title: "Done is Better than Perfect — ஆனா எப்போது?"
+title: Done is Better than Perfect — ஆனா எப்போது?
 date: 2026-04-25
 category: thoughts
-description: "Tech Lead ஆக 'perfect code' vs 'shipping fast' balance பண்றது பத்தி என் observations"
+description: Tech Lead ஆக 'perfect code' vs 'shipping fast' balance பண்றது பத்தி என் observations
+tags:
+  - work
 ---
 
 Sprint delivery pressure இருக்கும் போது "done is better than perfect" சரியான mindset. ஆனா payment systems-ல ஒரு bug production-ல போனா அது real money loss.

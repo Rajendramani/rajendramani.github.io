@@ -1,8 +1,10 @@
 ---
-title: "Obsidian → GitHub Pages Auto-Publish Setup"
+title: Obsidian → GitHub Pages Auto-Publish Setup
 date: 2026-04-20
 category: diy
-description: "Obsidian-ல எழுதுனா automatic-ஆ blog-ல publish ஆகுற workflow"
+description: Obsidian-ல எழுதுனா automatic-ஆ blog-ல publish ஆகுற workflow
+tags:
+  - obsidian
 ---
 
 ## Goal
