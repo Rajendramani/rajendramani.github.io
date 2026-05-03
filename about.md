@@ -19,8 +19,6 @@ This is my personal space where I share technical notes, random thoughts, and DI
 
 ## Elsewhere
 
-- [GitHub](https://github.com/rajendtamani)
+- [GitHub](https://github.com/Rajendramani)
 
 ---
-
-*This site runs on Jekyll + GitHub Pages. Zero cost, zero maintenance headache.*
