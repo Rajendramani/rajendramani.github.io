@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
-                "mode": "source",
+                "file": "index.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-03-Jio-Hotstar-System-Design"
+              "title": "index"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:System_Design",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-05-03-Jio-Hotstar-System-Design"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -114,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-05-03-Jio-Hotstar-System-Design"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-05-03-Jio-Hotstar-System-Design"
+              "title": "Outline of index"
             }
           }
         ]
@@ -184,18 +183,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "87ada1a5db8f18cd",
+  "active": "17fc2651c4880849",
   "lastOpenFiles": [
-    "_notes/Untitled.md",
-    "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
-    "_notes/2026-04-28-jslt-null-handling.md",
-    "notes.md",
-    "_diy/2026-04-20-obsidian-github-pages-setup.md",
     "thoughts.md",
+    "README.md",
+    "notes.md",
+    "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
     "index.md",
+    "_notes/Untitled.md",
+    "_notes/2026-04-28-jslt-null-handling.md",
+    "_diy/2026-04-20-obsidian-github-pages-setup.md",
     "diy.md",
     "about.md",
-    "_posts/2026-04-25-done-is-better-than-perfect.md",
-    "README.md"
+    "_posts/2026-04-25-done-is-better-than-perfect.md"
   ]
 }
