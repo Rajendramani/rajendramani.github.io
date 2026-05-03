@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:System_Design",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -183,7 +184,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "17fc2651c4880849",
+  "active": "87ada1a5db8f18cd",
   "lastOpenFiles": [
     "_notes/Untitled.md",
     "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
