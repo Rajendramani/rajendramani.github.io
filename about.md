@@ -3,11 +3,11 @@ layout: default
 title: About
 ---
 
-<article class="post-content">
+{:.post-content}
 
 # About
 
-I'm Rajendramani — a Technical Lead with 10+ years building banking & payments software.
+I'm Rajendramani — a Technical Lead with 10+ years experience in banking & payments , telecom domain.
 
 This is my personal space where I share technical notes, random thoughts, and DIY experiments. Nothing fancy, just things I learn along the way.
 
@@ -24,5 +24,3 @@ This is my personal space where I share technical notes, random thoughts, and DI
 ---
 
 *This site runs on Jekyll + GitHub Pages. Zero cost, zero maintenance headache.*
-
-</article>
