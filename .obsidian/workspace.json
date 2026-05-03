@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "diy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "diy"
             }
           }
         ]
@@ -188,13 +188,13 @@
     "index.md",
     "notes.md",
     "README.md",
+    "thoughts.md",
+    "about.md",
     "_posts/2026-04-25-done-is-better-than-perfect.md",
     "_diy/2026-04-20-obsidian-github-pages-setup.md",
-    "thoughts.md",
     "_notes/2026-05-03-Jio-Hotstar-System-Design.md",
     "_notes/Untitled.md",
     "_notes/2026-04-28-jslt-null-handling.md",
-    "diy.md",
-    "about.md"
+    "diy.md"
   ]
 }
